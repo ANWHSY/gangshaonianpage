@@ -1,5 +1,5 @@
-// CFnew - 终端 v5.0 
-// 版本: v5.0 
+// CFnew - 终端 vcm
+// 版本: vcm
 import { connect as 连接 } from 'cloudflare:sockets';
 const 基础64文本解码器 = new TextDecoder();
 function 解码64(文本) {
